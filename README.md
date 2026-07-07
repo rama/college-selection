@@ -3,6 +3,8 @@ A foundational case study in Excel using synthetic college rankings and crime st
 
 ## Problem Statement
 Maria is a 25-year-old US Army veteran, newly returned to the civilian workforce. She has recently completed a six-year commitment with the Army. During her time in the Army, she worked in supply management and logistics. She has decided to pursue a degree in Management Systems and Information Technology. Maria has asked you to use your data skills to help her search for the best school for her. She is willing to relocate anywhere in the continental United States, but she has a few criteria that her ideal schools must satisfy:
-1. Safety of the city
+1. Safety of the city (preferably below 50th percentile in overall crime)
 2. Schools should be offering a degree in IT
 3. Ranking of the school
+
+**Objective:** Analyze the data in the provided Excel files and produce a targeted recommendation of the top 5 colleges for Maria.
